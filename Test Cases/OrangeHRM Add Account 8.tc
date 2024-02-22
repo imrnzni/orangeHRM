@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users leave form blank</description>
+   <name>OrangeHRM Add Account 8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33629861-8e22-464a-95cd-8d8a964571be</testCaseGuid>
+</TestCaseEntity>

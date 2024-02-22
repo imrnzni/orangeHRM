@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully delete more than 1 job categories</description>
+   <name>OrangeHRM Delete Job Category 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c11e5663-6c8f-400a-9523-197597cc957a</testCaseGuid>
+</TestCaseEntity>

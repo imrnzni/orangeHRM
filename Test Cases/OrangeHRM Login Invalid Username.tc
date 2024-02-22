@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OrangeHRM Login Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d989a7b1-f08b-40ee-a2ba-f3f9a73a14ae</testCaseGuid>
+</TestCaseEntity>

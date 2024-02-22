@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User enter an existing job category</description>
+   <name>OrangeHRM Add Job Category 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3762cd60-8507-47e8-88dc-f1abb6060b1a</testCaseGuid>
+</TestCaseEntity>

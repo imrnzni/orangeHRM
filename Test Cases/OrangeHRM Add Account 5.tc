@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users entered less than 8 characters for password</description>
+   <name>OrangeHRM Add Account 5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec91ed1b-b20e-4326-aef2-d5d299f7d9dc</testCaseGuid>
+</TestCaseEntity>

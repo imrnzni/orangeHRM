@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully add a new currency</description>
+   <name>OrangeHRM Add Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42798b8-dec9-4091-8095-883e33e38c82</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18d29241-011d-4610-b0e3-bf70df2d105b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade 1'</defaultValue>
+      <description></description>
+      <id>18d29241-011d-4610-b0e3-bf70df2d105b</id>
+      <masked>false</masked>
+      <name>payGrade</name>
+   </variable>
+</TestCaseEntity>

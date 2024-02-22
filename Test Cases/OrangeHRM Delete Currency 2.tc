@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users successfully delete more than 1 currencies</description>
+   <name>OrangeHRM Delete Currency 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1290e0db-5814-4b19-b7a8-de4556e9b01c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4582d370-491a-45a5-b6f5-b18a8c110bfe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade 1'</defaultValue>
+      <description></description>
+      <id>4582d370-491a-45a5-b6f5-b18a8c110bfe</id>
+      <masked>false</masked>
+      <name>payGrade</name>
+   </variable>
+</TestCaseEntity>

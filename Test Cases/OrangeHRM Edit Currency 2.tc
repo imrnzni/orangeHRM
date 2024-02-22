@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users enter minimum salary higher than maximum salary</description>
+   <name>OrangeHRM Edit Currency 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d14cf90d-7415-487e-bb52-77306de28ddc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfe22799-0038-4b60-974a-5cc8c46fe1c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade 1'</defaultValue>
+      <description></description>
+      <id>cfe22799-0038-4b60-974a-5cc8c46fe1c9</id>
+      <masked>false</masked>
+      <name>payGrade</name>
+   </variable>
+</TestCaseEntity>

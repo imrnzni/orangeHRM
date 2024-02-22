@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User enters an unregistered employee name</description>
+   <name>OrangeHRM Add Account 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d560a209-9296-45eb-924d-c73c81c4b582</testCaseGuid>
+</TestCaseEntity>

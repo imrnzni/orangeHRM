@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successfully delete an account</description>
+   <name>OrangeHRM Delete Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce5cf623-a718-4b04-a6b2-1a422fadf3a2</testCaseGuid>
+</TestCaseEntity>

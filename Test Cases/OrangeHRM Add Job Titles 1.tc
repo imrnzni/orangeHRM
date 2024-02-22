@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully add a new job title</description>
+   <name>OrangeHRM Add Job Titles 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f92073-3355-48b5-92a3-94470dd375ba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users leave the job title text box blank</description>
+   <name>OrangeHRM Add Job Titles 4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51cddd1a-54c7-4337-a475-e0f5aa3618fb</testCaseGuid>
+</TestCaseEntity>

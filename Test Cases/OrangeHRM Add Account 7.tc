@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password confirmation does not match password</description>
+   <name>OrangeHRM Add Account 7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca1510f9-6c40-4d14-807a-7f3317b80e70</testCaseGuid>
+</TestCaseEntity>

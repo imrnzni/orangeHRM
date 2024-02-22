@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully edit the amount of minimum salary</description>
+   <name>OrangeHRM Edit Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe5ceca4-dc0b-4a34-b561-938dc6df0b99</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>439025b7-dc5c-4ea5-8c8a-08ef840cc9aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade 1'</defaultValue>
+      <description></description>
+      <id>439025b7-dc5c-4ea5-8c8a-08ef840cc9aa</id>
+      <masked>false</masked>
+      <name>payGrade</name>
+   </variable>
+</TestCaseEntity>

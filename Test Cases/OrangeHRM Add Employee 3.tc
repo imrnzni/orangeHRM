@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Selected file is larger than 1MB</description>
+   <name>OrangeHRM Add Employee 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d497070f-6272-402d-9d20-41a926dfb5cd</testCaseGuid>
+</TestCaseEntity>

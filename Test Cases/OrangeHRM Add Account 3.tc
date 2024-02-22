@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users enter less than five characters for username</description>
+   <name>OrangeHRM Add Account 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66f60321-036b-4e05-8a6f-858c2fb0e702</testCaseGuid>
+</TestCaseEntity>

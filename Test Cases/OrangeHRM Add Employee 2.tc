@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User register using existing employee ID</description>
+   <name>OrangeHRM Add Employee 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85384f6c-a72a-4f6f-9835-692e2632f4f3</testCaseGuid>
+</TestCaseEntity>

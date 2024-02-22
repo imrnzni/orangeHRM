@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users enter invalid currency</description>
+   <name>OrangeHRM Add Currency 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de47d47-90fc-4437-ada8-3882d1997dc0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1871e24c-3338-42ed-a4b3-bd1905087bde</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Grade 1'</defaultValue>
+      <description></description>
+      <id>1871e24c-3338-42ed-a4b3-bd1905087bde</id>
+      <masked>false</masked>
+      <name>payGrade</name>
+   </variable>
+</TestCaseEntity>
